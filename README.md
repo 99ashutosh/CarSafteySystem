@@ -23,4 +23,24 @@ Our project aims to scale down and model a simple car safety ‘detection’ sys
 - All the above modules are placed at appropriate positions in the model that applies to a real-life vehicle.
 
 ## CIRCUIT DIAGRAM:
-![Circuit Diagram](./final_program/circuit_diagram.png)
+<img src="./final_program/circuit_diagram.png">
+
+## MODEL IMAGE:
+<img src="./final_program/model_img.png">
+
+## OUTPUT POSSIBILITIES:
+### 1. Default State
+<img src="./final_program/default.png" style="height:60%;width:60%">
+
+### 2. Fire Warning
+<img src="./final_program/fire.png" style="height:60%;width:60%">
+
+### 3. Flood Warning
+<img src="./final_program/water.png" style="height:60%;width:60%">
+
+### 4. Collision Warning
+<img src="./final_program/collision.png" style="height:60%;width:60%">
+
+### 5. Fall/Flip Warning
+<img src="./final_program/fall.png" style="height:60%;width:60%">
+
