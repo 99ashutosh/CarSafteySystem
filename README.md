@@ -1,5 +1,6 @@
 # CarSafetySystem
-A Simple Arduino-based car saftey system
+A Simple Arduino-based car safety system
+CONTRIBUTERS: Ashutosh, Ashutosh Routray, Claudius D'Souza
 
 ## DESCRIPTION
 Our project aims to scale down and model a simple car safety ‘detection’ system using Arduino. The model comprises of four primary sensors:
