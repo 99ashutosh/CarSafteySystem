@@ -23,10 +23,10 @@ Our project aims to scale down and model a simple car safety ‘detection’ sys
 - All the above modules are placed at appropriate positions in the model that applies to a real-life vehicle.
 
 ## CIRCUIT DIAGRAM:
-<img src="./final_program/circuit_diagram.png">
+<img src="./final_program/circuit_diagram.png" style="height:60%;width:60%">
 
 ## MODEL IMAGE:
-<img src="./final_program/model_img.png">
+<img src="./final_program/model_img.png" style="height:80%;width:80%">
 
 ## OUTPUT POSSIBILITIES:
 ### 1. Default State
